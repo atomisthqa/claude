@@ -38,6 +38,8 @@ tests using Maven:
 $ ./mvnw test
 ```
 
+Hmm.
+
 ---
 Created by [Atomist][atomist].
 Need Help?  [Join our Slack team][slack].
